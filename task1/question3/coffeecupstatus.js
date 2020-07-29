@@ -1,3 +1,11 @@
+/* 
+    Question:
+    Using the "weather" example given, write a simple if/else if/else check to determine if a coffee cup is larger than 12 fl. oz and is currently hot or piping hot
+
+    This was written based on the assumption that the coffeecupsize is 12 and coffeetemperature is 65
+*/
+
+
 const coffeeCupSize = 12
 const coffeeTemperature = 65
 
