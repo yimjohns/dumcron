@@ -32,14 +32,3 @@ let tasks = [
         completed: true
     }
 ]
-
-const ages = [1, 2, 3, 4]
-
-const name = "My name is Johnson"
-
-console.log(typeof ages, typeof name)
-
-
-// console.log(typeof voters.notEligible.ages)
-
-console.log(typeof departments.computerScience.levels)
