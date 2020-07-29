@@ -1,0 +1,1 @@
+These exercises were done in JavaScript. It is not linked with an HTML file, but they will run using CLI using node.
